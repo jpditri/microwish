@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+codex --w ./ --full-auto --auto-edit "$1" -m gpt-4o-mini
+
